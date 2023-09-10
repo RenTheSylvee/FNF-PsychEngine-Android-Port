@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-17
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				1,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				8,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "ouchpopout"
+		},
+		{
+			"offsets": [
+				8,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "ouchpopout"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				159
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ouchidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/panty_ouch",
+	"position": [
+		-70,
+		130
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

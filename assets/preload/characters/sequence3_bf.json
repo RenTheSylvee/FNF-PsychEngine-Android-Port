@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sequence3_playeridle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Sequence3_playermove"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sequence3_bfmove",
+	"position": [
+		-560,
+		10
+	],
+	"healthicon": "blank",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		350,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

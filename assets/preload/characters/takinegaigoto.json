@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "taki_idle"
+		},
+		{
+			"offsets": [
+				220,
+				290
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "taki_idleloop"
+		},
+		{
+			"offsets": [
+				241,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "taki_left"
+		},
+		{
+			"offsets": [
+				30,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "taki_down"
+		},
+		{
+			"offsets": [
+				204,
+				296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "taki_up"
+		},
+		{
+			"offsets": [
+				-60,
+				277
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "taki_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taki_neigagoto",
+	"position": [
+		-200,
+		510
+	],
+	"healthicon": "taki2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		155
+	],
+	"camera_position": [
+		-80,
+		-400
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idlegf2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idlegf1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf2_week2norm",
+	"position": [
+		10,
+		220
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-230,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

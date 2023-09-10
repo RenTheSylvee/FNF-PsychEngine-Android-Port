@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-237,
+				-85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-362,
+				-67
+			],
+			"anim": "shoot1",
+			"fps": 24,
+			"name": "attack1_stockings",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-364,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rekt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				194
+			],
+			"anim": "shoot2",
+			"fps": 30,
+			"name": "attack2_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				-96
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_stockings",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stockings_norm",
+	"position": [
+		-80,
+		170
+	],
+	"healthicon": "stocking",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-590,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gopico_up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gopico_idle"
+		},
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gopico_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gopico_down"
+		},
+		{
+			"offsets": [
+				3,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gopico_right"
+		},
+		{
+			"offsets": [
+				-54,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot2",
+			"indices": [],
+			"name": "picoshoot_two"
+		},
+		{
+			"offsets": [
+				-55,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot1",
+			"indices": [],
+			"name": "picoshoot_one"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shootpico",
+	"position": [
+		-10,
+		220
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		80,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

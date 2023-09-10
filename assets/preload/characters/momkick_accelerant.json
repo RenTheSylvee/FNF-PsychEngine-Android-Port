@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-413,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_mom"
+		},
+		{
+			"offsets": [
+				-150,
+				-468
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge_mom"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				98
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "kick_mom",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momkick_accelerant",
+	"position": [
+		-410,
+		-60
+	],
+	"healthicon": "mom",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-150,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -2,99 +2,99 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				-237,
+				-85
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "danceLeft",
+			"anim": "singUP",
 			"indices": [],
-			"name": "idlespooklef"
+			"name": "up_stockings"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-112,
+				-97
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "danceRight",
-			"indices": [],
-			"name": "idlespookright"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				19,
-				10
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "spookyhey",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				60,
-				20
-			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "leftspook",
-			"indices": []
+			"indices": [],
+			"name": "left_stockings"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-60,
-				16
+				-309,
+				-84
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "rightspook",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_stockings"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				10
+				-350,
+				-128
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "downspook",
+			"name": "rekt",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				16
+				-238,
+				-96
 			],
-			"anim": "singUP",
+			"anim": "idle",
 			"fps": 24,
-			"name": "upspook",
+			"name": "idle2_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				190
+			],
+			"anim": "shoot2",
+			"fps": 30,
+			"name": "attack2_stockings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-346,
+				-72
+			],
+			"anim": "shoot1",
+			"fps": 24,
+			"name": "attack1_stockings",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spookykids",
+	"image": "characters/stockings_annoyed",
 	"position": [
-		-200,
-		-20
+		-110,
+		150
 	],
-	"healthicon": "spooky",
+	"healthicon": "panty",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		0,
+		255,
+		255
 	],
 	"camera_position": [
-		190,
-		50
+		-590,
+		-20
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 1.6
 }

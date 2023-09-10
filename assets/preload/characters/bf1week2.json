@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				347,
+				358
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				353,
+				358
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				356,
+				359
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idlebf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				304
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftbf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				313
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightbf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				290
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downbf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				307
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upbf",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "leftmiss"
+		},
+		{
+			"offsets": [
+				25,
+				311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "downmiss"
+		},
+		{
+			"offsets": [
+				26,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightmiss"
+		},
+		{
+			"offsets": [
+				4,
+				317
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf1_week2",
+	"position": [
+		0,
+		480
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		170,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

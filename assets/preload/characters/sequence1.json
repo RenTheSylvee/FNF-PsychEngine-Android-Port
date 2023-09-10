@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Sequence1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Sequence1_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sequence1",
+	"position": [
+		90,
+		-10
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-370,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

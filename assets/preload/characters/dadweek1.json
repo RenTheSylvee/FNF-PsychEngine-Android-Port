@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dadidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dadup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dadright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				313
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dadleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-680,
+				298
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "daddown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad_berserk",
+	"position": [
+		-720,
+		-100
+	],
+	"healthicon": "icon-dad_week1",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		125,
+		125
+	],
+	"camera_position": [
+		610,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

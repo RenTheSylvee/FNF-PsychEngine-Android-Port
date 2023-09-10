@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1090,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sequence2_idle"
+		},
+		{
+			"offsets": [
+				-950,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-tap",
+			"indices": [],
+			"name": "Sequence2_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Sequence2_gone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sequence2_leave",
+	"position": [
+		-560,
+		10
+	],
+	"healthicon": "blank",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		20
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

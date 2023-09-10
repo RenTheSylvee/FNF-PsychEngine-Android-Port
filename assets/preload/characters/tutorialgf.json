@@ -1,100 +1,111 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
-			"indices": [],
-			"name": "idlespooklef"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "danceRight",
-			"indices": [],
-			"name": "idlespookright"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				19,
-				10
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "spookyhey",
+			"name": "idle2gf",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				60,
-				20
+				0,
+				-12
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle1gf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "shoo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-12
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "thatshowyea",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "leftspook",
+			"name": "leftgf",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				16
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "rightspook",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
-				10
+				-1,
+				-9
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "downspook",
+			"name": "downgf",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				16
+				9,
+				-10
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "upspook",
+			"name": "upgf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightgf",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spookykids",
+	"image": "characters/tutorialgf",
 	"position": [
-		-200,
-		-20
+		70,
+		160
 	],
-	"healthicon": "spooky",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		190,
-		50
+		-120,
+		20
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 1.1
 }

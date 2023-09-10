@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_taki",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-201
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_taki",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_taki",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-277,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_taki",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_taki",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "idleloop_taki"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taki_week2",
+	"position": [
+		-360,
+		60
+	],
+	"healthicon": "taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		67,
+		111
+	],
+	"camera_position": [
+		90,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

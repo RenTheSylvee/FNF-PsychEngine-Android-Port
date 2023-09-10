@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Sequence3_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Sequence3_opponentmove"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sequence3_move",
+	"position": [
+		90,
+		-10
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-350,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

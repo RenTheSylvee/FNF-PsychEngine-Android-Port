@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				30
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "fade"
+		},
+		{
+			"offsets": [
+				-36,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "flash"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				-136
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "semiflash",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"indices": [],
+			"fps": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "blankidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sussybf",
+	"position": [
+		-280,
+		0
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		30,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 6.00000000000001
+}

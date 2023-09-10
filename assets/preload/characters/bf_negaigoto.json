@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf_idle"
+		},
+		{
+			"offsets": [
+				10,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_left"
+		},
+		{
+			"offsets": [
+				-5,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_down"
+		},
+		{
+			"offsets": [
+				-9,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_up"
+		},
+		{
+			"offsets": [
+				2,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_right"
+		},
+		{
+			"offsets": [
+				-49,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "bf_dodge"
+		},
+		{
+			"offsets": [
+				-9,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf_left"
+		},
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf_down"
+		},
+		{
+			"offsets": [
+				-7,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf_up"
+		},
+		{
+			"offsets": [
+				2,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_neigagoto",
+	"position": [
+		-80,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-80,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

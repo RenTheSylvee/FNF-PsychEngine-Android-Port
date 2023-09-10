@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "angyidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				497
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "angyshoot1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				488
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "angyshoot2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "angypanty"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/panty_angy",
+	"position": [
+		50,
+		340
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

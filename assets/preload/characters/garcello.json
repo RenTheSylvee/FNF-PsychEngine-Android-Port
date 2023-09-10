@@ -1,100 +1,100 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"anim": "idle",
 			"fps": 24,
-			"anim": "danceLeft",
-			"indices": [],
-			"name": "idlespooklef"
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"anim": "idle-loop",
 			"fps": 24,
-			"anim": "danceRight",
-			"indices": [],
-			"name": "idlespookright"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				19,
-				10
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "spookyhey",
+			"name": "idleloop",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				60,
-				20
+				16,
+				-5
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "leftspook",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				16
+				-49,
+				-1
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "rightspook",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				10
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "downspook",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				16
+				-7,
+				-1
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "upspook",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "cough",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spookykids",
+	"image": "characters/hdgarcello",
 	"position": [
-		-200,
-		-20
+		-50,
+		110
 	],
-	"healthicon": "spooky",
+	"healthicon": "garcello",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		0,
+		235,
+		140
 	],
 	"camera_position": [
-		190,
-		50
+		-110,
+		-330
 	],
-	"sing_duration": 4,
-	"scale": 0.9
+	"sing_duration": 6.1,
+	"scale": 1.9
 }
