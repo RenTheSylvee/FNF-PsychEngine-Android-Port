@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momkick_accelerant.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dodge_mom0000" x="50" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0001" x="648" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0002" x="1247" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0003" x="1845" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0004" x="2444" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0005" x="3042" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0006" x="50" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0007" x="648" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0008" x="1247" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0009" x="1845" y="380" width="588" height="320"/>
+
+	<SubTexture name="idle_mom0000" x="2444" y="380" width="361" height="665" frameX="-10" frameY="-1" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0001" x="2815" y="380" width="362" height="663" frameX="-7" frameY="-3" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0002" x="3187" y="380" width="362" height="658" frameX="-2" frameY="-7" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0003" x="3560" y="380" width="359" height="656" frameX="0" frameY="-10" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0004" x="50" y="1055" width="353" height="658" frameX="-1" frameY="-8" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0005" x="413" y="1055" width="347" height="661" frameX="-4" frameY="-5" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0006" x="770" y="1055" width="345" height="664" frameX="-7" frameY="-1" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0007" x="1126" y="1055" width="348" height="666" frameX="-9" frameY="0" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0008" x="1484" y="1055" width="354" height="666" frameX="-9" frameY="0" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0009" x="1848" y="1055" width="360" height="666" frameX="-8" frameY="0" frameWidth="371" frameHeight="666"/>
+
+	<SubTexture name="kick_mom0000" x="2218" y="1055" width="372" height="669" frameX="-412" frameY="-71" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0001" x="2600" y="1055" width="374" height="664" frameX="-406" frameY="-77" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0002" x="2984" y="1055" width="371" height="658" frameX="-399" frameY="-82" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0003" x="3366" y="1055" width="361" height="659" frameX="-399" frameY="-82" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0004" x="50" y="1734" width="353" height="661" frameX="-401" frameY="-79" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0005" x="413" y="1734" width="353" height="663" frameX="-402" frameY="-77" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0006" x="777" y="1734" width="354" height="665" frameX="-404" frameY="-75" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0007" x="1141" y="1734" width="355" height="667" frameX="-404" frameY="-74" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0008" x="1506" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0009" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0010" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0011" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0012" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0013" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0014" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0015" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0016" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0017" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0018" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0019" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0020" x="1871" y="1734" width="355" height="668" frameX="-405" frameY="-73" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0021" x="2236" y="1734" width="657" height="726" frameX="-159" frameY="-17" frameWidth="819" frameHeight="375"/>
+	<SubTexture name="kick_mom0022" x="2903" y="1734" width="819" height="751"/>
+	<SubTexture name="kick_mom0023" x="50" y="2496" width="819" height="751"/>
+	<SubTexture name="kick_mom0024" x="879" y="2496" width="819" height="751"/>
+	<SubTexture name="kick_mom0025" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0026" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0027" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0028" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0029" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0030" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0031" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0032" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0033" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+	<SubTexture name="kick_mom0034" x="1709" y="2496" width="511" height="675" frameX="-272" frameY="-65" frameWidth="819" frameHeight="751"/>
+</TextureAtlas>

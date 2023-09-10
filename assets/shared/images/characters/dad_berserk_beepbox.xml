@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad_berserk.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daddown0000" x="0" y="0" width="494" height="966" frameX="0" frameY="-13" frameWidth="524" frameHeight="980"/>
+	<SubTexture name="daddown0001" x="494" y="0" width="514" height="976" frameX="-10" frameY="-4" frameWidth="524" frameHeight="980"/>
+	<SubTexture name="daddown0002" x="1008" y="0" width="510" height="979" frameX="-14" frameY="0" frameWidth="524" frameHeight="980"/>
+
+	<SubTexture name="dadidle0000" x="1518" y="0" width="973" height="751"/>
+	<SubTexture name="dadidle0001" x="2492" y="0" width="973" height="751"/>
+	<SubTexture name="dadidle0002" x="0" y="979" width="973" height="751"/>
+	<SubTexture name="dadidle0003" x="973" y="979" width="973" height="751"/>
+	<SubTexture name="dadidle0004" x="1947" y="979" width="973" height="751"/>
+	<SubTexture name="dadidle0005" x="2920" y="979" width="973" height="751"/>
+
+	<SubTexture name="dadleft0000" x="0" y="1673" width="994" height="993"/>
+	<SubTexture name="dadleft0001" x="994" y="1673" width="994" height="993"/>
+	<SubTexture name="dadleft0002" x="1989" y="1673" width="994" height="993"/>
+
+	<SubTexture name="dadright0000" x="2983" y="1731" width="897" height="769"/>
+	<SubTexture name="dadright0001" x="0" y="2664" width="897" height="769"/>
+
+	<SubTexture name="dadup0000" x="897" y="2664" width="993" height="798"/>
+	<SubTexture name="dadup0001" x="1890" y="2664" width="993" height="798"/>
+	<SubTexture name="dadup0002" x="2883" y="2664" width="993" height="798"/>
+</TextureAtlas>

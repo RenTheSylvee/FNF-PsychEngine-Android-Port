@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stockings_annoyed.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="attack1_stockings0000" x="50" y="50" width="1079" height="390"/>
+	<SubTexture name="attack1_stockings0001" x="1139" y="50" width="1079" height="390"/>
+	<SubTexture name="attack1_stockings0002" x="2228" y="50" width="1079" height="390"/>
+	<SubTexture name="attack1_stockings0003" x="50" y="450" width="1079" height="390"/>
+	<SubTexture name="attack1_stockings0004" x="1139" y="450" width="917" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+	<SubTexture name="attack1_stockings0005" x="2066" y="450" width="917" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+	<SubTexture name="attack1_stockings0006" x="2993" y="450" width="922" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+	<SubTexture name="attack1_stockings0007" x="50" y="850" width="920" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+	<SubTexture name="attack1_stockings0008" x="980" y="850" width="914" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+	<SubTexture name="attack1_stockings0009" x="1904" y="850" width="468" height="331" frameX="-30" frameY="-53" frameWidth="1079" frameHeight="390"/>
+
+	<SubTexture name="attack2_stockings0000" x="2382" y="850" width="1381" height="645"/>
+	<SubTexture name="attack2_stockings0001" x="50" y="1505" width="1381" height="645"/>
+	<SubTexture name="attack2_stockings0002" x="1441" y="1505" width="1381" height="645"/>
+	<SubTexture name="attack2_stockings0003" x="50" y="2160" width="1381" height="645"/>
+
+	<SubTexture name="idle_stockings0000" x="1441" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0001" x="1836" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0002" x="2232" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0003" x="2627" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0004" x="3023" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0005" x="3418" y="2160" width="385" height="401"/>
+	<SubTexture name="idle_stockings0006" x="50" y="2815" width="385" height="401"/>
+	<SubTexture name="idle_stockings0007" x="445" y="2815" width="385" height="401"/>
+	<SubTexture name="idle_stockings0008" x="841" y="2815" width="385" height="401"/>
+	<SubTexture name="idle_stockings0009" x="1236" y="2815" width="385" height="401"/>
+
+	<SubTexture name="left_stockings0000" x="1634" y="2815" width="487" height="380"/>
+	<SubTexture name="left_stockings0001" x="2131" y="2815" width="487" height="380"/>
+	<SubTexture name="left_stockings0002" x="2629" y="2815" width="487" height="380"/>
+	<SubTexture name="left_stockings0003" x="3126" y="2815" width="487" height="380"/>
+	<SubTexture name="left_stockings0004" x="50" y="3226" width="487" height="380"/>
+
+	<SubTexture name="rekt0000" x="547" y="3226" width="339" height="353"/>
+	<SubTexture name="rekt0001" x="897" y="3226" width="339" height="353"/>
+	<SubTexture name="rekt0002" x="1246" y="3226" width="339" height="353"/>
+	<SubTexture name="rekt0003" x="1596" y="3226" width="339" height="353"/>
+	<SubTexture name="rekt0004" x="1945" y="3226" width="339" height="353"/>
+
+	<SubTexture name="right_stockings0000" x="2295" y="3226" width="385" height="401"/>
+	<SubTexture name="right_stockings0001" x="2690" y="3226" width="385" height="401"/>
+	<SubTexture name="right_stockings0002" x="3086" y="3226" width="385" height="401"/>
+	<SubTexture name="right_stockings0003" x="3481" y="3226" width="385" height="401"/>
+	<SubTexture name="right_stockings0004" x="50" y="3637" width="385" height="401"/>
+
+	<SubTexture name="up_stockings0000" x="445" y="3637" width="385" height="401"/>
+	<SubTexture name="up_stockings0001" x="841" y="3637" width="385" height="401"/>
+	<SubTexture name="up_stockings0002" x="1236" y="3637" width="385" height="401"/>
+	<SubTexture name="up_stockings0003" x="1632" y="3637" width="385" height="401"/>
+	<SubTexture name="up_stockings0004" x="2027" y="3637" width="385" height="401"/>
+</TextureAtlas>

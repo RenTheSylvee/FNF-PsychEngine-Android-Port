@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf1_week2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfcheer0000" x="100" y="100" width="823" height="893" frameX="-29" frameY="0" frameWidth="882" frameHeight="893"/>
+	<SubTexture name="gfcheer0001" x="943" y="100" width="837" height="887" frameX="-23" frameY="-6" frameWidth="882" frameHeight="893"/>
+	<SubTexture name="gfcheer0002" x="1800" y="100" width="861" height="875" frameX="-10" frameY="-17" frameWidth="882" frameHeight="893"/>
+	<SubTexture name="gfcheer0003" x="2681" y="100" width="882" height="864" frameX="0" frameY="-27" frameWidth="882" frameHeight="893"/>
+	<SubTexture name="gfcheer0004" x="100" y="1013" width="872" height="865" frameX="-4" frameY="-26" frameWidth="882" frameHeight="893"/>
+	<SubTexture name="gfidle10000" x="992" y="1013" width="857" height="864" frameX="-25" frameY="-10" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle10001" x="1869" y="1013" width="909" height="846" frameX="-2" frameY="-35" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle10002" x="2798" y="1013" width="917" height="855" frameX="0" frameY="-26" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle10003" x="100" y="1898" width="886" height="875" frameX="-14" frameY="-4" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle10004" x="1006" y="1898" width="866" height="877" frameX="-22" frameY="0" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle10005" x="1892" y="1898" width="857" height="869" frameX="-27" frameY="-5" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle20000" x="1892" y="1898" width="857" height="869" frameX="-25" frameY="-2" frameWidth="917" frameHeight="881"/>
+	<SubTexture name="gfidle20001" x="2769" y="1898" width="909" height="849" frameX="-2" frameY="-29" frameWidth="917" frameHeight="878"/>
+	<SubTexture name="gfidle20002" x="100" y="2795" width="917" height="854" frameX="0" frameY="-24" frameWidth="917" frameHeight="878"/>
+	<SubTexture name="gfidle20003" x="1037" y="2795" width="886" height="873" frameX="-14" frameY="-3" frameWidth="917" frameHeight="878"/>
+	<SubTexture name="gfidle20004" x="1943" y="2795" width="868" height="874" frameX="-21" frameY="0" frameWidth="917" frameHeight="878"/>
+</TextureAtlas>

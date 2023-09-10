@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence3_bfsing.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence3_playerarrows0000" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_playerarrows0001" x="1066" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_playerarrows0002" x="2083" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_playerarrows0003" x="50" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence3_playerarrows0004" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence3_playeridle0000" x="2083" y="755" width="1006" height="695"/>
+</TextureAtlas>

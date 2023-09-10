@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence10000" x="50" y="50" width="0" height="0" frameX="-128" frameY="-355" frameWidth="1006" frameHeight="695"/>
+	<SubTexture name="Sequence10001" x="60" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence10002" x="1076" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence10003" x="2093" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence10004" x="50" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10005" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10006" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10007" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10008" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10009" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10010" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10011" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10012" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10013" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10014" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10015" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10016" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10017" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10018" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10019" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10020" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10021" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10022" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10023" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10024" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10025" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10026" x="2083" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence10027" x="50" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10028" x="1066" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10029" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10030" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10031" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10032" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10033" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10034" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10035" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10036" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10037" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10038" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10039" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence10040" x="2083" y="1460" width="1006" height="695"/>
+	<SubTexture name="Sequence1_Idle0000" x="2083" y="1460" width="1006" height="695"/>
+</TextureAtlas>

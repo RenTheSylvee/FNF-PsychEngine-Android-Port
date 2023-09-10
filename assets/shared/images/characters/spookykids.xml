@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spookykids.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downspook0000" x="100" y="100" width="776" height="872"/>
+	<SubTexture name="downspook0001" x="896" y="100" width="776" height="872"/>
+	<SubTexture name="downspook0002" x="1692" y="100" width="776" height="872"/>
+	<SubTexture name="downspook0003" x="2488" y="100" width="776" height="872"/>
+	<SubTexture name="downspook0004" x="3284" y="100" width="776" height="872"/>
+	<SubTexture name="idlespookleft0000" x="4080" y="100" width="776" height="872"/>
+	<SubTexture name="idlespookleft0001" x="4876" y="100" width="776" height="872"/>
+	<SubTexture name="idlespookleft0002" x="5672" y="100" width="776" height="872"/>
+	<SubTexture name="idlespookleft0003" x="6468" y="100" width="776" height="872"/>
+	<SubTexture name="idlespookleft0004" x="2488" y="992" width="776" height="872" frameX="0" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="idlespookright0000" x="7264" y="100" width="776" height="872" frameX="0" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="idlespookright0001" x="100" y="992" width="776" height="872" frameX="-1" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="idlespookright0002" x="896" y="992" width="776" height="872" frameX="-1" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="idlespookright0003" x="1692" y="992" width="776" height="872" frameX="-1" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="idlespookright0004" x="2488" y="992" width="776" height="872" frameX="-1" frameY="0" frameWidth="777" frameHeight="872"/>
+	<SubTexture name="leftspook0000" x="3284" y="992" width="776" height="872"/>
+	<SubTexture name="leftspook0001" x="4080" y="992" width="776" height="872"/>
+	<SubTexture name="leftspook0002" x="4876" y="992" width="776" height="872"/>
+	<SubTexture name="leftspook0003" x="5672" y="992" width="776" height="872"/>
+	<SubTexture name="leftspook0004" x="6468" y="992" width="776" height="872"/>
+	<SubTexture name="rightspook0000" x="7264" y="992" width="776" height="872"/>
+	<SubTexture name="rightspook0001" x="100" y="1884" width="776" height="872"/>
+	<SubTexture name="rightspook0002" x="896" y="1884" width="776" height="872"/>
+	<SubTexture name="rightspook0003" x="1692" y="1884" width="776" height="872"/>
+	<SubTexture name="rightspook0004" x="2488" y="1884" width="776" height="872"/>
+	<SubTexture name="spookyhey0000" x="3284" y="1884" width="776" height="872"/>
+	<SubTexture name="spookyhey0001" x="4080" y="1884" width="776" height="872"/>
+	<SubTexture name="spookyhey0002" x="4876" y="1884" width="776" height="872"/>
+	<SubTexture name="spookyhey0003" x="5672" y="1884" width="776" height="872"/>
+	<SubTexture name="spookyhey0004" x="6468" y="1884" width="776" height="872"/>
+	<SubTexture name="upspook0000" x="7264" y="1884" width="776" height="872"/>
+	<SubTexture name="upspook0001" x="100" y="2776" width="776" height="872"/>
+	<SubTexture name="upspook0002" x="896" y="2776" width="776" height="872"/>
+	<SubTexture name="upspook0003" x="1692" y="2776" width="776" height="872"/>
+	<SubTexture name="upspook0004" x="2488" y="2776" width="776" height="872"/>
+</TextureAtlas>

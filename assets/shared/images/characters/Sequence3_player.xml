@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence3_player.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence3_playerarrows0000" x="100" y="100" width="2013" height="1390"/>
+	<SubTexture name="Sequence3_playerarrows0001" x="2133" y="100" width="2013" height="1390"/>
+	<SubTexture name="Sequence3_playerarrows0002" x="4166" y="100" width="2013" height="1390"/>
+	<SubTexture name="Sequence3_playerarrows0003" x="100" y="1510" width="2013" height="1390"/>
+	<SubTexture name="Sequence3_playerarrows0004" x="2133" y="1510" width="2013" height="1390"/>
+	<SubTexture name="Sequence3_playeridle0000" x="2133" y="5743" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0000" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0001" x="100" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0002" x="2133" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0003" x="4166" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0004" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0005" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0006" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0007" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0008" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0009" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0010" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0011" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0012" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0013" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0014" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0015" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0016" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0017" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0018" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0019" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0020" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0021" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0022" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0023" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0024" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0025" x="100" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0026" x="2133" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0027" x="4166" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0028" x="100" y="5743" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_playermove0029" x="2133" y="5743" width="2013" height="1391"/>
+</TextureAtlas>

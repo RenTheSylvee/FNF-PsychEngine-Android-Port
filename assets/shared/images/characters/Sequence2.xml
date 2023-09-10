@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence2_hey0000" x="50" y="50" width="0" height="0" frameX="0" frameY="0" frameWidth="1006" frameHeight="695"/>
+	<SubTexture name="Sequence2_hey0001" x="50" y="50" width="0" height="0" frameX="0" frameY="0" frameWidth="1006" frameHeight="695"/>
+	<SubTexture name="Sequence2_hey0002" x="60" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0003" x="1076" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0004" x="2093" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0005" x="50" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0006" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0007" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0008" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0009" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0010" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0011" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0012" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0013" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0014" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0015" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0016" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0017" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0018" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0019" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0020" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0021" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0022" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0023" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0024" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0025" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0026" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0027" x="2083" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0028" x="50" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0029" x="1066" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0030" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0031" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0032" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0033" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0034" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0035" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0036" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0037" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0038" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_hey0039" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0000" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0001" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0002" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0003" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0004" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0005" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0006" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0007" x="2083" y="1461" width="1006" height="695"/>
+	<SubTexture name="Sequence2_idle0008" x="2083" y="1461" width="1006" height="695"/>
+</TextureAtlas>

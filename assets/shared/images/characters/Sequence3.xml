@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence3.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence3_idle0000" x="2133" y="1510" width="2013" height="1390" frameX="0" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0000" x="100" y="100" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0001" x="2133" y="100" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0002" x="4166" y="100" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0003" x="100" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0004" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0005" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0006" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0007" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0008" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0009" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0010" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0011" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0012" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0013" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0014" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0015" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0016" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0017" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0018" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0019" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0020" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0021" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0022" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0023" x="2133" y="1510" width="2013" height="1390" frameX="-363" frameY="0" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_opponentmove0024" x="2133" y="1510" width="2013" height="1390" frameX="0" frameY="-319" frameWidth="2376" frameHeight="1710"/>
+	<SubTexture name="Sequence3_singdown0000" x="4166" y="1510" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singdown0001" x="100" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singdown0002" x="2133" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singdown0003" x="4166" y="2921" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singdown0004" x="100" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singup0000" x="2133" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singup0001" x="4166" y="4332" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singup0002" x="100" y="5743" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singup0003" x="2133" y="5743" width="2013" height="1391"/>
+	<SubTexture name="Sequence3_singup0004" x="4166" y="5743" width="2013" height="1391"/>
+</TextureAtlas>

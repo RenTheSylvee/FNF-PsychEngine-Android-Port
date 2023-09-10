@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sequence3_move.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sequence3_idle0000" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0000" x="1066" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0001" x="2083" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0002" x="50" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0003" x="1066" y="755" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0004" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0005" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0006" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0007" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0008" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0009" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0010" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0011" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0012" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0013" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0014" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0015" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0016" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0017" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0018" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0019" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0020" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0021" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0022" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0023" x="50" y="50" width="1006" height="695"/>
+	<SubTexture name="Sequence3_opponentmove0024" x="50" y="50" width="1006" height="695"/>
+</TextureAtlas>

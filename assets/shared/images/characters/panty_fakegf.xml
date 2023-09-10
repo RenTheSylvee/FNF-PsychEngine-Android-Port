@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panty_fakegf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance10000" x="100" y="100" width="699" height="674" frameX="-2" frameY="-2" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10001" x="819" y="100" width="703" height="670" frameX="0" frameY="-6" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10002" x="1542" y="100" width="703" height="667" frameX="0" frameY="-9" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10003" x="2265" y="100" width="699" height="667" frameX="-2" frameY="-9" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10004" x="2984" y="100" width="699" height="669" frameX="-2" frameY="-7" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10005" x="100" y="794" width="699" height="672" frameX="-2" frameY="-4" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10006" x="819" y="794" width="699" height="675" frameX="-2" frameY="-1" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10007" x="1538" y="794" width="699" height="676" frameX="-2" frameY="0" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10008" x="2257" y="794" width="699" height="676" frameX="-2" frameY="0" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance10009" x="2976" y="794" width="699" height="674" frameX="-2" frameY="-2" frameWidth="703" frameHeight="676"/>
+	<SubTexture name="dance20000" x="100" y="1490" width="699" height="672" frameX="0" frameY="-2" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20001" x="819" y="1490" width="703" height="669" frameX="0" frameY="-5" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20002" x="1542" y="1490" width="703" height="665" frameX="0" frameY="-9" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20003" x="2265" y="1490" width="699" height="665" frameX="-2" frameY="-9" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20004" x="2984" y="1490" width="699" height="668" frameX="-2" frameY="-6" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20005" x="100" y="2182" width="699" height="671" frameX="-2" frameY="-3" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20006" x="819" y="2182" width="699" height="674" frameX="-2" frameY="0" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20007" x="1538" y="2182" width="699" height="674" frameX="-2" frameY="0" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20008" x="2257" y="2182" width="699" height="673" frameX="-2" frameY="-1" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="dance20009" x="2976" y="2182" width="699" height="672" frameX="-2" frameY="-2" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0000" x="100" y="2876" width="699" height="674" frameX="-2" frameY="0" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0001" x="819" y="2876" width="703" height="664" frameX="0" frameY="-10" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0002" x="1542" y="2876" width="703" height="667" frameX="0" frameY="-7" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0003" x="2265" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0004" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0005" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0006" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0007" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0008" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0009" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0010" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0011" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0012" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0013" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+	<SubTexture name="reveal0014" x="2984" y="2876" width="699" height="670" frameX="-2" frameY="-4" frameWidth="703" frameHeight="674"/>
+</TextureAtlas>

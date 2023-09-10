@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panty_ouch.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ouchidle0000" x="100" y="100" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0001" x="819" y="100" width="703" height="664"/>
+	<SubTexture name="ouchidle0002" x="1542" y="100" width="703" height="664"/>
+	<SubTexture name="ouchidle0003" x="2265" y="100" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0004" x="2984" y="100" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0005" x="100" y="784" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0006" x="819" y="784" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0007" x="1538" y="784" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0008" x="2257" y="784" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchidle0009" x="2976" y="784" width="699" height="664" frameX="-2" frameY="0" frameWidth="703" frameHeight="664"/>
+	<SubTexture name="ouchpopout0000" x="100" y="1468" width="699" height="378" frameX="-2" frameY="-221" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0001" x="819" y="1468" width="703" height="418" frameX="0" frameY="-181" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0002" x="1542" y="1468" width="703" height="462" frameX="0" frameY="-137" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0003" x="2265" y="1468" width="699" height="505" frameX="-2" frameY="-94" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0004" x="2984" y="1468" width="699" height="545" frameX="-2" frameY="-54" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0005" x="100" y="2033" width="699" height="577" frameX="-2" frameY="-22" frameWidth="703" frameHeight="599"/>
+	<SubTexture name="ouchpopout0006" x="819" y="2033" width="699" height="599" frameX="-2" frameY="0" frameWidth="703" frameHeight="599"/>
+</TextureAtlas>

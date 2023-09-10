@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mom_accelerant.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dodge_mom0000" x="50" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0001" x="648" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0002" x="1247" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0003" x="1845" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0004" x="2444" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0005" x="3042" y="50" width="588" height="320"/>
+	<SubTexture name="dodge_mom0006" x="50" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0007" x="648" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0008" x="1247" y="380" width="588" height="320"/>
+	<SubTexture name="dodge_mom0009" x="1845" y="380" width="588" height="320"/>
+
+	<SubTexture name="down_mom0000" x="2444" y="380" width="514" height="556"/>
+	<SubTexture name="down_mom0001" x="2968" y="380" width="514" height="556"/>
+	<SubTexture name="down_mom0002" x="3493" y="380" width="514" height="556"/>
+	<SubTexture name="down_mom0003" x="50" y="986" width="514" height="556"/>
+	<SubTexture name="down_mom0004" x="574" y="986" width="514" height="556"/>
+
+	<SubTexture name="idle_mom0000" x="1099" y="986" width="361" height="665" frameX="-10" frameY="-1" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0001" x="1470" y="986" width="362" height="663" frameX="-7" frameY="-3" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0002" x="1842" y="986" width="362" height="658" frameX="-2" frameY="-7" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0003" x="2215" y="986" width="359" height="656" frameX="0" frameY="-10" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0004" x="2584" y="986" width="353" height="658" frameX="-2" frameY="-8" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0005" x="2947" y="986" width="347" height="661" frameX="-4" frameY="-5" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0006" x="3305" y="986" width="345" height="664" frameX="-7" frameY="-1" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0007" x="3660" y="986" width="348" height="666" frameX="-9" frameY="0" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0008" x="50" y="1662" width="354" height="666" frameX="-9" frameY="0" frameWidth="371" frameHeight="666"/>
+	<SubTexture name="idle_mom0009" x="414" y="1662" width="360" height="666" frameX="-9" frameY="0" frameWidth="371" frameHeight="666"/>
+
+	<SubTexture name="left_mom0000" x="784" y="1662" width="642" height="731"/>
+	<SubTexture name="left_mom0001" x="1436" y="1662" width="642" height="731"/>
+	<SubTexture name="left_mom0002" x="2088" y="1662" width="642" height="731"/>
+	<SubTexture name="left_mom0003" x="2740" y="1662" width="642" height="731"/>
+	<SubTexture name="left_mom0004" x="3392" y="1662" width="642" height="731"/>
+
+	<SubTexture name="right_mom0000" x="50" y="2403" width="641" height="731"/>
+	<SubTexture name="right_mom0001" x="701" y="2403" width="641" height="731"/>
+	<SubTexture name="right_mom0002" x="1353" y="2403" width="641" height="731"/>
+	<SubTexture name="right_mom0003" x="2004" y="2403" width="641" height="731"/>
+	<SubTexture name="right_mom0004" x="2656" y="2403" width="641" height="731"/>
+
+	<SubTexture name="up_mom0000" x="3307" y="2403" width="641" height="731"/>
+	<SubTexture name="up_mom0001" x="50" y="3144" width="641" height="731"/>
+	<SubTexture name="up_mom0002" x="701" y="3144" width="641" height="731"/>
+	<SubTexture name="up_mom0003" x="1353" y="3144" width="641" height="731"/>
+	<SubTexture name="up_mom0004" x="2004" y="3144" width="641" height="731"/>
+</TextureAtlas>

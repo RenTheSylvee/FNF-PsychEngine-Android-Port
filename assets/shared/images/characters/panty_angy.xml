@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panty_angy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angyidle0000" x="50" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0001" x="409" y="50" width="351" height="326"/>
+	<SubTexture name="angyidle0002" x="771" y="50" width="351" height="326"/>
+	<SubTexture name="angyidle0003" x="1132" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0004" x="1492" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0005" x="1851" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0006" x="2211" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0007" x="2570" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0008" x="2930" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angyidle0009" x="3289" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+
+	<SubTexture name="angypanty0000" x="3649" y="50" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0001" x="50" y="386" width="351" height="326"/>
+	<SubTexture name="angypanty0002" x="411" y="386" width="351" height="326"/>
+	<SubTexture name="angypanty0003" x="773" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0004" x="1132" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0005" x="1492" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0006" x="1851" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0007" x="2211" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0008" x="2570" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+	<SubTexture name="angypanty0009" x="2930" y="386" width="349" height="326" frameX="-1" frameY="0" frameWidth="351" frameHeight="326"/>
+
+	<SubTexture name="angyshoot10000" x="3289" y="386" width="500" height="500"/>
+	<SubTexture name="angyshoot10001" x="50" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10002" x="560" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10003" x="1070" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10004" x="1580" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10005" x="2090" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10006" x="2600" y="896" width="500" height="500"/>
+	<SubTexture name="angyshoot10007" x="3110" y="896" width="349" height="343" frameX="-16" frameY="-157" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="angyshoot10008" x="3469" y="896" width="349" height="343" frameX="-16" frameY="-157" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="angyshoot10009" x="50" y="1406" width="349" height="343" frameX="-16" frameY="-157" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="angyshoot20000" x="409" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20001" x="919" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20002" x="1429" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20003" x="1939" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20004" x="2449" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20005" x="2959" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20006" x="3469" y="1406" width="500" height="500"/>
+	<SubTexture name="angyshoot20007" x="50" y="1916" width="349" height="339" frameX="-8" frameY="-156" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="angyshoot20008" x="409" y="1916" width="349" height="339" frameX="-8" frameY="-156" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="angyshoot20009" x="769" y="1916" width="349" height="339" frameX="-8" frameY="-156" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

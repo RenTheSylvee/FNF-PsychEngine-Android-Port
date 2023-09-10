@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="taki_neigagoto.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="taki_down0000" x="50" y="50" width="661" height="580"/>
+	<SubTexture name="taki_down0001" x="721" y="50" width="661" height="580"/>
+	<SubTexture name="taki_down0002" x="1393" y="50" width="661" height="580"/>
+	<SubTexture name="taki_down0003" x="2064" y="50" width="661" height="580"/>
+	<SubTexture name="taki_down0004" x="50" y="50" width="661" height="580"/>
+
+	<SubTexture name="taki_idle0000" x="5472" y="50" width="0" height="0" frameX="0" frameY="0" frameWidth="662" frameHeight="580"/>
+	<SubTexture name="taki_idle0001" x="2746" y="50" width="662" height="580"/>
+	<SubTexture name="taki_idle0002" x="50" y="640" width="662" height="580"/>
+	<SubTexture name="taki_idle0003" x="722" y="640" width="662" height="580"/>
+	<SubTexture name="taki_idle0004" x="1394" y="640" width="662" height="580"/>
+	<SubTexture name="taki_idle0005" x="2066" y="640" width="662" height="580"/>
+	<SubTexture name="taki_idle0006" x="2738" y="640" width="662" height="580"/>
+	<SubTexture name="taki_idle0007" x="50" y="1231" width="662" height="580"/>
+	<SubTexture name="taki_idle0008" x="722" y="1231" width="662" height="580"/>
+	<SubTexture name="taki_idle0009" x="1394" y="1231" width="662" height="580"/>
+
+	<SubTexture name="taki_idleloop0000" x="2066" y="1231" width="662" height="580"/>
+	<SubTexture name="taki_idleloop0001" x="2738" y="1231" width="662" height="580"/>
+
+	<SubTexture name="taki_left0000" x="50" y="1821" width="662" height="580"/>
+	<SubTexture name="taki_left0001" x="722" y="1821" width="662" height="580"/>
+	<SubTexture name="taki_left0002" x="1394" y="1821" width="662" height="580"/>
+	<SubTexture name="taki_left0003" x="2066" y="1821" width="662" height="580"/>
+	<SubTexture name="taki_left0004" x="2738" y="1821" width="662" height="580"/>
+
+	<SubTexture name="taki_right0000" x="50" y="2412" width="662" height="580"/>
+	<SubTexture name="taki_right0001" x="722" y="2412" width="662" height="580"/>
+	<SubTexture name="taki_right0002" x="1395" y="2412" width="662" height="580"/>
+	<SubTexture name="taki_right0003" x="2067" y="2412" width="662" height="580"/>
+	<SubTexture name="taki_right0004" x="2740" y="2412" width="662" height="580"/>
+
+	<SubTexture name="taki_up0000" x="50" y="3002" width="661" height="580"/>
+	<SubTexture name="taki_up0001" x="721" y="3002" width="661" height="580"/>
+	<SubTexture name="taki_up0002" x="1392" y="3002" width="661" height="580"/>
+	<SubTexture name="taki_up0003" x="2063" y="3002" width="661" height="580"/>
+	<SubTexture name="taki_up0004" x="2734" y="3002" width="661" height="580"/>
+</TextureAtlas>
